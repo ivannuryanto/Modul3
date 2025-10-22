@@ -1,4 +1,4 @@
-Tentu, ini adalah format **README.md** yang bagus dan profesional untuk GitHub, menjelaskan program penghitung persegi panjang Anda.
+
 
 -----
 
